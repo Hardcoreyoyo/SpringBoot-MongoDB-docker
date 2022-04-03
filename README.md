@@ -33,7 +33,7 @@ AllStart.sh
 ###  Api
 | api | Service | Method |
 | :----: | :----: | :----: |
-| localhost:8220 |  |  |
+| localhost:8087 |  |  |
 | /read/{id} | 搜尋指定資料 | GET |
 | /create | 創建資料 | POST |
 | /update | 更新 | PUT |
